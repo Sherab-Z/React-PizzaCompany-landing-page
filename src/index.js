@@ -60,11 +60,11 @@ function App() {
 function Header() {
   // const style = {color: 'red', fontSize: '48px', textTransform: 'uppercase'}
   // return <h1 style={style} className='header'>Fast React Pizza Co.</h1>;
-  const style = {};
+  // const style = {};
 
   return (
     <header className="header">
-      <h1 style={style}>Fast React Pizza Co.</h1>
+      <h1>Fast React Pizza Co.</h1>
     </header>
   );
 }
@@ -162,7 +162,7 @@ function Footer() {
   // return React.createElement('footer', null, "We're currently open.")
 }
 
-function Order({ closeHour, openHour }) {
+function Order({ openHour, closeHour }) {
   return (
     <div className="order">
       <p>
