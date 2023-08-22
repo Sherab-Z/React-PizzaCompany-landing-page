@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-PizzaCompany-landing-page/static/css/main.a813677f.css",
+    "main.js": "/React-PizzaCompany-landing-page/static/js/main.be810a17.js",
+    "index.html": "/React-PizzaCompany-landing-page/index.html",
+    "main.a813677f.css.map": "/React-PizzaCompany-landing-page/static/css/main.a813677f.css.map",
+    "main.be810a17.js.map": "/React-PizzaCompany-landing-page/static/js/main.be810a17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a813677f.css",
+    "static/js/main.be810a17.js"
+  ]
+}
